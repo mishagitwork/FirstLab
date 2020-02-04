@@ -11,3 +11,53 @@ firstTasks {
     background-color: red;
     color: blue;
 } 
+secondTasks {
+    font-family: "Bodoni";
+    font-size: 25px;
+    background-color: blue;
+    color: red;
+} 
+thirdTasks {
+   font-family: "Courier New";
+    font-size: 30px;
+    background-color: black;
+    color: white;
+} 
+fourTasks {
+    font-family: "Arial";
+    font-size: 35px;
+    background-color: white;
+    color: black;
+} 
+fiveTasks {
+     font-family: "Verdana";
+    font-size: 40px;
+    background-color: green;
+    color: red;
+} 
+sixTasks {
+     font-family: "Lucida Console";
+    font-size: 45px;
+    background-color: white;
+    color: blue;
+} 
+string{
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+string2{
+	font-style: italic;
+	font-weight: bold;
+}
+string3{
+	font-style: oblique;
+	font-variant: normal;
+}
+string4{
+	font-variant: small-caps;
+	color: green;
+}
+string5{
+	font-variant: small-caps;
+}
