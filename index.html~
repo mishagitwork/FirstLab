@@ -6,13 +6,16 @@
 
 <h1>Лабараторная работа №1</h1>
 <h2><firstTasks>Задание 1 </firstTasks><h2>
-<string1 style ="font-variant: normal;font-weight: normal;">My name is...</string1>
-<br>
-<string2>My name is...</string2>
-<br>
-<string3>My name is...</string3>
-<string4>My name is...</string4>
-<string5>My name is...</string5>
+<string style ="font-variant: normal;font-weight: normal;">My name is...</string>
+</p>
+<string style ="font-variant: normal;font-weight: normal;border-style: solid;font-size:160%;">My name is...</string>
+</p>
+<string style ="font-variant: normal;font-weight: normal;border-style: double;border-color: red;font-size:85%;">My name is...</string>
+</p>
+<string style ="font-variant: normal;font-weight: normal;border-style: ridge;border-color: green;">My name is...</string>
+</p>
+<string style ="font-variant: normal;font-weight: normal;border-style: dotted dashed solid double;border-color: blue;">My name is...</string>
+
 <h2><secondTasks>Задание 2</secondTasks><h2>
 <h2><thirdTasks >Задание 3</thirdTasks ><h2>
 <h2><fourTasks>Задание 4</fourTasks><h2>
