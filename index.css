@@ -1,5 +1,5 @@
 body {
-    background-color: #d0e4fe;
+    background-color: #ffffff;
 }
 h1 {
     color: orange;
@@ -61,3 +61,62 @@ string4{
 string5{
 	font-variant: small-caps;
 }
+
+a.firstLink {
+	text-decoration: none;
+	color: black;
+}
+
+a.firstLink:hover {
+	text-decoration: underline;
+}
+
+a.secondLink {
+	text-decoration: none;
+	color: red;
+}
+
+a.secondLink:hover {
+	color: blue;
+}
+
+a.thirdLink {
+	text-decoration: none;
+	color: blue;
+	border: 5px solid blue;
+	padding: 4px 20px;
+}
+
+a.thirdLink:hover {
+	background: blue;
+	color: white;
+}
+
+a.fourLink {
+	text-decoration: none;
+	color: white;
+	background: green;
+	border-radius: 10px;
+	padding: 15px;
+}
+
+a.fourLink:hover {
+	background: pink;
+
+}
+
+a.fiveLink {
+	text-decoration: none;
+	color: black;
+	border: 3px solid black;
+	border-radius: 20px;
+	font-weight: bold;
+	padding: 5px 20px;
+}
+
+a.fiveLink:hover {
+	background: black;
+	color: white;
+}
+
+
